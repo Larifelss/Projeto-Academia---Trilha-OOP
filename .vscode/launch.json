@@ -1,0 +1,112 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Aula_5",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Aula_5",
+            "preLaunchTask": "swift: Build Debug Aula_5"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Aula_5",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Aula_5",
+            "preLaunchTask": "swift: Build Release Aula_5"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Aula_4",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Aula_4",
+            "preLaunchTask": "swift: Build Debug Aula_4"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Aula_4",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Aula_4",
+            "preLaunchTask": "swift: Build Release Aula_4"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Aula_3",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Aula_3",
+            "preLaunchTask": "swift: Build Debug Aula_3"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Aula_3",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Aula_3",
+            "preLaunchTask": "swift: Build Release Aula_3"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Aula_2",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Aula_2",
+            "preLaunchTask": "swift: Build Debug Aula_2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Aula_2",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Aula_2",
+            "preLaunchTask": "swift: Build Release Aula_2"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Aula_1",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Aula_1",
+            "preLaunchTask": "swift: Build Debug Aula_1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Aula_1",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Aula_1",
+            "preLaunchTask": "swift: Build Release Aula_1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Debug Academia",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/debug/Academia",
+            "preLaunchTask": "swift: Build Debug Academia"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Projeto-Academia---Trilha-OOP}",
+            "name": "Release Academia",
+            "program": "${workspaceFolder:Projeto-Academia---Trilha-OOP}/.build/release/Academia",
+            "preLaunchTask": "swift: Build Release Academia"
+        }
+    ]
+}
